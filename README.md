@@ -22,6 +22,4 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-SafwanGanz/SafwanGanz is a ✨ special ✨ repository .
---->
+

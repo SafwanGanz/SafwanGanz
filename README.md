@@ -7,7 +7,12 @@
 I'm currently learning:
 - Python
 - Javascript
+</p>
 
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://youtube.com/channel/UCx8GEqibLXQ3RD_W9XS8o3w"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+</p>
 <img align="center" fit="fill" alt="JPG" src="https://i.ibb.co/sgDvxrK/IMG-20210727-WA1305.jpg" />
 
 ### 📫 Follow Me On

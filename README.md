@@ -1,9 +1,6 @@
 <h3 align="center">
-  Welcome SafwanGanz's profile!
+  Welcome to Safwan's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
-<img align="right" alt="GIF" height="125px" src="https://media.giphy.com/media/0YLMNYmGyMfcqRX1j1/source.gif" />
 
 :page_with_curl: I'm currently learning:
 - Python

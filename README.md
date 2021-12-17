@@ -1,8 +1,9 @@
 <h3 align="center">
   Welcome to Safwan's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+:page_with_curl:
 
-:page_with_curl: I'm currently learning:
+I'm currently learning:
 - Python
 - Javascript
 

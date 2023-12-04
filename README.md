@@ -1,34 +1,121 @@
 
-  Welcome to Safwan's profile!
-### 🤝 Connect with me:
-
-<a href="https://instagram.com/SafwanGanz"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="SafwanGanz | Instagram" width="21px"/></a>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-<button> About </button>
-I'm currently learning:
-- Python
-- Javascript
+<div align="center">
+    <img
+        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Hey+there!;It's+me,+SafwanGanzあ!;Welcome;To+my+GitHub+world!🚀"
+            alt="Typing SVG"
+        /
+        >
+    </a>
 </p>
+</div>
 
-<!-- Social icons section -->
+
+<h2 align="center"></h2>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SafwanGanz&label=Profile%20views&color=0e75b6&style=flat" alt="SafwanGanz" /> </p>
+
+<br>
+
 <p align="center">
-  <a href="https://youtube.com/channel/UCx8GEqibLXQ3RD_W9XS8o3w"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://wa.me/917012074386"><img src="https://cdn-icons-png.flaticon.com/512/124/124034.png" alt="Social Media Icon" width="30" height="30"></a>
+  <a href="https://youtube.com/"><img src="https://cdn-icons-png.flaticon.com/512/124/124015.png" alt="Website Icon" width="30" height="30"></a>
 </p>
-<img align="center" fit="fill" alt="JPG" src="https://i.ibb.co/sgDvxrK/IMG-20210727-WA1305.jpg" />
 
-### 📫 Follow Me On
-<a href="https://www.instagram.com/safwanganz" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://youtube.com/channel/" target="_blank"><img src="https://img.shields.io/badge/YouTube-%231877F2.svg?&style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
-<a href="https://wa.me/917012074386" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
-
-![github stats](https://github-readme-stats.vercel.app/api?username=SafwanGanz&show_icons=true&theme=radical)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=SafwanGanz&layout=compact&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=SafwanGanz&repo=TG_PHEONIX&heme=dark)
-
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+    
 
 
+   <br>
+
+   </p>
+
+ 
+ <BR>
+<h2 align="center"></h2>
+
+
+
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="stackoverflow logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+</div>
+
+###
+
+
+
+<br>
+
+
+<!-- 
+<h2 align="center"></h2> -->
+
+
+<br>
+
+
+<p align="center">
+  <a href="https://github.com/SafwanGanz"> <img  alt="SafwanGanz's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/SafwanGanz?cardType=github&theme=github-dark&preferLogin=true" />  </a>
+
+
+
+<p align="center">
+  <a href="https://github.com/SafwanGanz">
+    <img src="https://streak-stats.demolab.com?user=Kai0071&theme=dark&background=000000" alt="GitHub Streak">
+  </a>
+</p>
+
+
+ <p align="center">
+    <a href="https://github.com/SafwanGanz">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=SafwanGanz&theme=redical" alt="Stats">
+    </a>
+</p>
+
+
+<p align="center"><a href="https://github.com/SafwanGanz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafwanGanz&theme=radical&layout=compact"></a></p> 

@@ -85,8 +85,9 @@
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="vercel logo"  />
   <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="vercel logo"  />
-  <img src="https://skillicons.dev/icons?i=android" height="40" alt="vercel logo"  />
-  <img src="https://skillicons.dev/icons?i=ios" height="40" alt="vercel logo"  />
+  <img src="https://skillicons.dev/icons?i=scss" height="40" alt="vercel logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="vercel logo"  />
+  <img src="https://skillicons.dev/icons?i=shell" height="40" alt="vercel logo"  />
 
 ###
 

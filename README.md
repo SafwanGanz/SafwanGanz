@@ -83,7 +83,7 @@
   <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="stackoverflow logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img src="https://skillicons.dev/icons?i=replit" height="40" alt="vercel logo"  />
+  <img src="https://skillicons.dev/icons?i=windows" height="40" alt="vercel logo"  />
   
 
 ###

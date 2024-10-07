@@ -92,6 +92,9 @@
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="vercel logo"  />  
 <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
 <img src="https://skillicons.dev/icons?i=java" height="40" alt="vercel logo"  />
+<img src="https://skillicons.dev/icons?i=flutter" height="40" alt="vercel logo"  />
+<img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="vercel logo"  />
+
 
 ###
 

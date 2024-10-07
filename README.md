@@ -89,7 +89,9 @@
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="vercel logo"  />
   <img src="https://skillicons.dev/icons?i=googlecloud" height="40" alt="vercel logo"  />
   <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="vercel logo"  />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="vercel logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="vercel logo"  />  
+<img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
+<img src="https://skillicons.dev/icons?i=java" height="40" alt="vercel logo"  />
 
 ###
 

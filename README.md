@@ -74,7 +74,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+  
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
   <img width="12" />
@@ -94,6 +94,7 @@
 <img src="https://skillicons.dev/icons?i=java" height="40" alt="vercel logo"  />
 <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="vercel logo"  />
 <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="vercel logo"  />
+<img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="vercel logo"  />
 
 
 ###

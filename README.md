@@ -95,6 +95,7 @@
 <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="vercel logo"  />
 <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="vercel logo"  />
 <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="vercel logo"  />
+<img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="vercel logo"  />
 
 
 ###

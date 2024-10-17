@@ -118,7 +118,7 @@
 
 <p align="center">
   <a href="https://github.com/SafwanGanz">
-    <img src="https://streak-stats.demolab.com?user=Kai0071&theme=dark&background=000000" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com?user=SafwanGanz&theme=dark&background=000000" alt="GitHub Streak">
   </a>
 </p>
 

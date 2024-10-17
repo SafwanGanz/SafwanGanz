@@ -98,6 +98,7 @@
 <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="vercel logo"  />
 <img src="https://skillicons.dev/icons?i=vuejs" height="40" alt="vercel logo"  />
 <img src="https://skillicons.dev/icons?i=nuxtjs" height="40" alt="vercel logo"  />
+<img src="https://skillicons.dev/icons?i=angular" height="40" alt="vercel logo"  />
 
 
 ###

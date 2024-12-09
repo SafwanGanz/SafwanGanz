@@ -120,7 +120,6 @@
   <a href="https://github.com/SafwanGanz"> <img  alt="SafwanGanz's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/SafwanGanz?cardType=github&theme=github-dark&preferLogin=true" />  </a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=SafwanGanz&theme=algolia&show_icons=true)](https://github.com/SafwanGanz)
 
 <p align="center">
   <a href="https://github.com/SafwanGanz">

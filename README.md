@@ -8,7 +8,7 @@
     </a>
 </p>
 </div>
-
+[![Ceasefire_Now-techforpalestine.org](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B8_Ceasefire_Now-techforpalestine.org-D83838?color=D83838)](https://www.techforpalestine.org)
 
 <h2 align="center"></h2>
 

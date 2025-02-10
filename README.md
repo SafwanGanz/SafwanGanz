@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://wa.me/917012074386"><img img align="center" height="auto" src="home.png?raw=true" alt="Profile"/> </a>
+  <a href="https://wa.me/917012074386"><img img align="center" height="auto" width="auto" src="home.png?raw=true" alt="Profile"/> </a>
 </p>
     
 <div align="center">

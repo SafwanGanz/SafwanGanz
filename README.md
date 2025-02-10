@@ -1,7 +1,6 @@
 <p align="center">
-  <a href="https://www.instagram.com/alienalfa/"><img img align="center" height="auto" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/Bungee%20Shades.png?raw=true" alt="Profile"/> </a>
+  <a href="https://wa.me/917012074386"><img img align="center" height="auto" src="https://i.ibb.co/5XHXCqtb/Untitled-design.png?raw=true" alt="Profile"/> </a>
 </p>
-[![Ceasefire_Now-techforpalestine.org](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B8_Ceasefire_Now-techforpalestine.org-D83838?color=D83838)](https://www.techforpalestine.org)
     
 <div align="center">
     <img

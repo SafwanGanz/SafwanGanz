@@ -102,7 +102,21 @@ const safwan = {
 - 🌟 Contributed to various open-source projects
 - 📚 Created technical content and tutorials
 - 🎓 Mentored junior developers
+--
 
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=SafwanGanz&theme=dark_dimmed&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" width="100%" />
+
+## 📈 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafwanGanz&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+
+</div>
+
+---
 ## 📂 Featured Projects
 
 <div align="center">

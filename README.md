@@ -3,7 +3,9 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Safwan%20Ganz&fontSize=90&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7BE2C&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things;Cloud+Architecture+Expert;UI/UX+Designer)](https://git.io/typing-svg)
-
+![Arctic Code Vault Contributor](https://img.shields.io/badge/-Arctic_Code_Vault_Contributor-blue?logo=github)
+![Galaxy Brain](https://img.shields.io/badge/-Galaxy_Brain-yellow?logo=github)
+![Starstruck](https://img.shields.io/badge/-Starstruck-purple?logo=github)
 <div align="center">
     <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Lives-India-success?style=for-the-badge" />

@@ -95,8 +95,9 @@ const safwan = {
 
 <div align="center">
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/SafwanGanz?cardType=github&theme=github-dark&preferLogin=true" alt="GitHub Stats" />
-    [![GitHub Streak](https://streak-stats.demolab.com?user=&theme=dark)](https://git.io/streak-stats)
+    
 </div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=!&theme=dark)]
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SafwanGanz&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
 

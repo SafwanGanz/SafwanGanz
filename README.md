@@ -67,7 +67,7 @@ const safwan = {
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-007396?style=for-the-badge&logo=Dart&logoColor=white)
-![SH](https://img.shields.io/badge/.sh-96FF96?style=for-the-badge&logo=gnubash&logoColor=white)
+![SH](https://img.shields.io/badge/.sh-90EE90?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

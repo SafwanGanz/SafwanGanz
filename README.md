@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Safwan%20Ganz&fontSize=90&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7BE2C&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things;Cloud+Architecture+Expert;UI/UX+Designer)](https://git.io/typing-svg)
-[![An image of @safwanganz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/safwanganz)](https://holopin.io/@safwanganz)
+
 <div align="center">
     <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Lives-India-success?style=for-the-badge" />
@@ -158,6 +158,8 @@ const safwan = {
 - 🎮 I debug with console.log and I'm proud of it!
 - 🎵 I code better with music
 - ☕ Powered by coffee and curiosity
+
+[![An image of @safwanganz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/safwanganz)](https://holopin.io/@safwanganz)
 
 ## 🤝 Let's Connect!
 

@@ -1,40 +1,48 @@
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,25:764ba2,50:f093fb,75:f5576c,100:4facfe&height=350&section=header&text=◢◤%20SAFWAN%20GANZ%20◤◢&fontSize=100&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤&descAlign=50&descAlignY=65&descSize=15)
+![Header](https://capsule-render.vercel.app/api?type=cylinder&color=0:FF6B6B,10:4ECDC4,20:45B7D1,30:96CEB4,40:FFEAA7,50:DDA0DD,60:98D8C8,70:F7DC6F,80:BB8FCE,90:85C1E9,100:F8C471&height=400&section=header&text=SAFWAN%20GANZ&fontSize=80&fontColor=000000&animation=blinking&fontAlignY=35&desc=🚀%20FULL%20STACK%20ARCHITECT%20🚀&descAlign=50&descAlignY=60&descSize=25)
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00FFFF&background=000000&center=true&vCenter=true&multiline=true&width=800&height=180&lines=▋▊▋+Full+Stack+Developer+▊▋▊;▋▊▋+Open+Source+Enthusiast+▊▋▊;▋▊▋+Always+Learning+New+Things+▊▋▊;▋▊▋+Cloud+Architecture+Expert+▊▋▊;▋▊▋+UI%2FUX+Designer+▊▋▊" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=45&duration=2500&pause=800&color=FF6B35&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=250&lines=💫+Full+Stack+Developer+💫;🌟+Open+Source+Enthusiast+🌟;⚡+Always+Learning+New+Things+⚡;☁️+Cloud+Architecture+Expert+☁️;🎨+UI%2FUX+Designer+🎨)](https://git.io/typing-svg)
 
 <div align="center">
-    <img src="https://img.shields.io/badge/⚡_Focus-Full%20Stack%20Development-00ff41?style=for-the-badge&labelColor=000000&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJjdXJyZW50Q29sb3IiLz4KPC9zdmc+" />
-    <img src="https://img.shields.io/badge/🌍_Lives-India-ff0080?style=for-the-badge&labelColor=000000" />
-    <img src="https://img.shields.io/badge/🗣️_Languages-English%20%26%20Malayalam-00ffff?style=for-the-badge&labelColor=000000" />
+    <img src="https://img.shields.io/badge/🔥%20Focus-Full%20Stack%20Development-FF4500?style=plastic&labelColor=000000&logo=fire&logoColor=FF4500" />
+    <img src="https://img.shields.io/badge/🌏%20Lives-India-00CED1?style=plastic&labelColor=000000&logo=earth&logoColor=00CED1" />
+    <img src="https://img.shields.io/badge/💬%20Languages-English%20%26%20Malayalam-9370DB?style=plastic&labelColor=000000&logo=chat&logoColor=9370DB" />
 </div>
+
+<br>
 
 <p align="center">
     <a href="https://wa.me/917012074386">
-        <img src="https://img.shields.io/badge/◢◤_WhatsApp_◤◢-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" alt="WhatsApp"/>
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000&logoWidth=30" alt="WhatsApp" />
     </a>
     <a href="https://youtube.com/">
-        <img src="https://img.shields.io/badge/◢◤_YouTube_◤◢-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000" alt="YouTube"/>
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000&logoWidth=30" alt="YouTube" />
     </a>
     <a href="https://github.com/SafwanGanz">
-        <img src="https://img.shields.io/badge/◢◤_GitHub_◤◢-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=333333" alt="GitHub"/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&logoWidth=30" alt="GitHub" />
     </a>
     <a href="mailto: safwanganz@gmail.com">
-        <img src="https://img.shields.io/badge/◢◤_Email_◤◢-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/>
+        <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&logoWidth=30" alt="Email" />
     </a>
     <a href="https://www.linkedin.com/in/SafwanGanz">
-        <img src="https://img.shields.io/badge/◢◤_LinkedIn_◤◢-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/>
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&logoWidth=30" alt="LinkedIn" />
     </a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SafwanGanz&label=◢◤%20Profile%20Views%20◤◢&color=blueviolet&style=for-the-badge&labelColor=000000)
+![Profile Views](https://komarev.com/ghpvc/?username=SafwanGanz&label=👁️%20Profile%20Views&color=blueviolet&style=for-the-badge&labelColor=000000)
 
 </div>
 
 ---
 
-## 🎯 ◢◤ CURRENT FOCUS ◤◢
+<div align="center">
+
+## 🎯 CURRENT FOCUS
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" height="200">
+
+</div>
 
 ```javascript
 const safwan = {
@@ -60,92 +68,111 @@ const safwan = {
 
 ---
 
-## 🛠️ ◢◤ TECH STACK & TOOLS ◤◢
-
-### ⚡ Programming Languages
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/◢_JavaScript_◤-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)
-![Python](https://img.shields.io/badge/◢_Python_◤-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
-![TypeScript](https://img.shields.io/badge/◢_TypeScript_◤-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000)
-![PHP](https://img.shields.io/badge/◢_PHP_◤-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=000000)
-![C](https://img.shields.io/badge/◢_C_◤-A8B9CC?style=for-the-badge&logo=c&logoColor=black&labelColor=000000)
-![Kotlin](https://img.shields.io/badge/◢_Kotlin_◤-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=000000)
-![Java](https://img.shields.io/badge/◢_Java_◤-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=000000)
-![Dart](https://img.shields.io/badge/◢_Dart_◤-007396?style=for-the-badge&logo=Dart&logoColor=white&labelColor=000000)
-![SH](https://img.shields.io/badge/◢_.sh_◤-90EE90?style=for-the-badge&logo=gnubash&logoColor=black&labelColor=000000)
-![R](https://img.shields.io/badge/◢_R_◤-276DC3?style=for-the-badge&logo=r&logoColor=white&labelColor=000000)
-![Ruby](https://img.shields.io/badge/◢_Ruby_◤-CC342D?style=for-the-badge&logo=ruby&logoColor=white&labelColor=000000)
-![C#](https://img.shields.io/badge/◢_C%23_◤-239120?style=for-the-badge&logo=csharp&logoColor=white&labelColor=000000)
+## 🛠️ TECH STACK & TOOLS
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" height="150">
 
 </div>
 
-### 🎨 Frontend Development
+### Programming Languages
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/◢_HTML5_◤-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
-![CSS3](https://img.shields.io/badge/◢_CSS3_◤-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
-![SCSS](https://img.shields.io/badge/◢_SCSS_◤-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=000000)
-![React](https://img.shields.io/badge/◢_React_◤-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000)
-![Vue.js](https://img.shields.io/badge/◢_Vue.js_◤-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D&labelColor=000000)
-![Bootstrap](https://img.shields.io/badge/◢_Bootstrap_◤-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=000000)
-![Tailwind CSS](https://img.shields.io/badge/◢_Tailwind_CSS_◤-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000000)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=000000)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=000000)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=000000)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=000000)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=000000)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=000000)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&labelColor=000000)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white&labelColor=000000)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=000000)
 
 </div>
 
-### ⚙️ Backend Development
+### Frontend Development
 <div align="center">
 
-![Node.js](https://img.shields.io/badge/◢_Node.js_◤-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000)
-![Express.js](https://img.shields.io/badge/◢_Express.js_◤-404D59?style=for-the-badge&logo=express&logoColor=white&labelColor=000000)
-![Django](https://img.shields.io/badge/◢_Django_◤-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=000000)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D&labelColor=000000)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=000000)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=000000)
 
 </div>
 
-### 🗄️ Databases
+### Backend Development
 <div align="center">
 
-![SQL](https://img.shields.io/badge/◢_SQL_◤-4479A1?style=for-the-badge&logo=database&logoColor=white&labelColor=000000)
-![PostgreSQL](https://img.shields.io/badge/◢_PostgreSQL_◤-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)
-![MongoDB](https://img.shields.io/badge/◢_MongoDB_◤-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000)
-![MariaDB](https://img.shields.io/badge/◢_MariaDB_◤-003545?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=000000)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white&labelColor=000000)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=000000)
 
 </div>
 
-### ☁️ Cloud & DevOps
+### Databases
 <div align="center">
 
-![AWS](https://img.shields.io/badge/◢_AWS_◤-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000000)
-![GCP](https://img.shields.io/badge/◢_Google_Cloud_◤-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=000000)
-![Docker](https://img.shields.io/badge/◢_Docker_◤-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)
-![Kubernetes](https://img.shields.io/badge/◢_Kubernetes_◤-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000000)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=000000)
 
 </div>
 
-### 🔧 Tools & Platforms
+### Cloud & DevOps
 <div align="center">
 
-![VS Code](https://img.shields.io/badge/◢_VS_Code_◤-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=000000)
-![Git](https://img.shields.io/badge/◢_Git_◤-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
-![NPM](https://img.shields.io/badge/◢_npm_◤-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=000000)
-![Postman](https://img.shields.io/badge/◢_Postman_◤-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=000000)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=000000)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=000000)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000000)
+
+</div>
+
+### Tools & Platforms
+<div align="center">
+
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=000000)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white&labelColor=CB3837)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=000000)
 
 </div>
 
 ---
 
-## 📈 ◢◤ GITHUB STATISTICS ◤◢
-
 <div align="center">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/SafwanGanz?cardType=github&theme=synthwave&preferLogin=true&Border=DD00FF&Title=00FFFF&Ring=FF00FF&FireRing=FF6600&currStreakNum=FFFFFF&currStreakLabel=FF00FF&sideNums=00FFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" alt="GitHub Stats" />
-    <img src="https://streak-stats.demolab.com?user=SafwanGanz&theme=neon-dark&border=DD00FF&ring=FF00FF&fire=FF6600&currStreakNum=FFFFFF&currStreakLabel=00FFFF&sideNums=00FFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" alt="GitHub Streak" />
+
+## 📈 GITHUB STATISTICS
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" height="200">
+
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SafwanGanz&theme=noctis-minimus&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+<div align="center">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/SafwanGanz?cardType=github&theme=prussian&preferLogin=true&Border=FF6B35&Title=FFD93D&Ring=6BCF7F&FireRing=FF6B35&currStreakNum=FFD93D&currStreakLabel=6BCF7F&sideNums=FF6B35&sideLabels=FFD93D&dates=6BCF7F" alt="GitHub Stats" />
+    <img src="https://streak-stats.demolab.com?user=SafwanGanz&theme=noctis-minimus&border=FF6B35&ring=6BCF7F&fire=FFD93D&currStreakNum=FFD93D&currStreakLabel=FF6B35&sideNums=6BCF7F&sideLabels=FFD93D&dates=FF6B35" alt="GitHub Streak" />
+</div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SafwanGanz&theme=tokyo-night&bg_color=0D1117&color=FFD93D&line=FF6B35&point=6BCF7F&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" width="100%" />
 
 ---
 
-## 🏅 ◢◤ ACHIEVEMENTS ◤◢
+<div align="center">
+
+## 🏅 ACHIEVEMENTS
+
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" height="150">
+
+</div>
+
 - 🏆 Successfully deployed 50+ web applications
 - 🌟 Contributed to various open-source projects
 - 📚 Created technical content and tutorials
@@ -155,35 +182,48 @@ const safwan = {
 
 <div align="center">
 
-## 🏆 ◢◤ GITHUB TROPHIES ◤◢
+## 🏆 GITHUB TROPHIES
 
-<img src="https://github-profile-trophy.vercel.app/?username=SafwanGanz&theme=neon&no-frame=true&no-bg=true&margin-w=4&row=1&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="GitHub Trophies" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=SafwanGanz&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="GitHub Trophies" width="100%" />
 
-## 📈 ◢◤ MOST USED LANGUAGES ◤◢
+## 📈 MOST USED LANGUAGES
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafwanGanz&theme=synthwave&hide_border=true&layout=compact&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=FF00FF" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafwanGanz&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=FFD93D&text_color=6BCF7F&icon_color=FF6B35" alt="Top Languages" />
 
 </div>
 
 ---
 
-## 📂 ◢◤ FEATURED PROJECTS ◤◢
+<div align="center">
+
+## 📂 FEATURED PROJECTS
+
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="300" height="150">
+
+</div>
 
 <div align="center">
     <a href="https://compiler.safwanganz.tech">
-        <img src="https://img.shields.io/badge/◢◤_Python_Compiler_◤◢-4B8BBE?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" alt="Python Compiler"/>
+        <img src="https://img.shields.io/badge/🐍%20Python%20Compiler-4B8BBE?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" alt="Python Compiler"/>
     </a>
     <a href="https://compiler-js.safwanganz.tech">
-        <img src="https://img.shields.io/badge/◢◤_JavaScript_Compiler_◤◢-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000" alt="JS Compiler"/>
+        <img src="https://img.shields.io/badge/⚡%20JavaScript%20Compiler-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000" alt="JS Compiler"/>
     </a>
     <a href="https://markdown-editor.safwanganz.tech">
-        <img src="https://img.shields.io/badge/◢◤_Markdown_Editor_◤◢-000000?style=for-the-badge&logo=markdown&logoColor=white&labelColor=333333" alt="Markdown Editor"/>
+        <img src="https://img.shields.io/badge/📝%20Markdown%20Editor-000000?style=for-the-badge&logo=markdown&logoColor=white&labelColor=333333" alt="Markdown Editor"/>
     </a>
 </div>
 
 ---
 
-## 🎯 ◢◤ FUTURE GOALS ◤◢
+<div align="center">
+
+## 🎯 FUTURE GOALS
+
+<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="200" height="150">
+
+</div>
+
 - 📱 Develop cross-platform mobile applications
 - 🤖 Explore AI/ML integration in web apps
 - 🌐 Contribute to more open-source projects
@@ -191,7 +231,14 @@ const safwan = {
 
 ---
 
-## 🌟 ◢◤ FUN FACTS ◤◢
+<div align="center">
+
+## 🌟 FUN FACTS
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" height="150">
+
+</div>
+
 - 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
 - 🎮 I debug with console.log and I'm proud of it!
 - 🎵 I code better with music
@@ -201,19 +248,24 @@ const safwan = {
 
 ---
 
-## 🤝 ◢◤ LET'S CONNECT! ◤◢
-
 <div align="center">
-    <p><strong>If you're interested in collaborating or just want to say hi, feel free to reach out!</strong></p>
-    <a href="https://wa.me/917012074386">
-        <img src="https://img.shields.io/badge/◢◤_Let's_Chat_◤◢-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" alt="WhatsApp"/>
-    </a>
+
+## 🤝 LET'S CONNECT!
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="200" height="150">
+
+<p><strong>If you're interested in collaborating or just want to say hi, feel free to reach out!</strong></p>
+
+<a href="https://wa.me/917012074386">
+    <img src="https://img.shields.io/badge/💬%20Let's%20Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" alt="WhatsApp"/>
+</a>
+
 </div>
 
 ---
 
 <div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave&border=true&borderColor=DD00FF" alt="Random Dev Quote"/>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&borderColor=FF6B35" alt="Random Dev Quote"/>
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,25:00f2fe,50:f093fb,75:f5576c,100:667eea&height=120&section=footer&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,25:FFD93D,50:6BCF7F,75:4ECDC4,100:BB8FCE&height=150&section=footer&animation=fadeIn)

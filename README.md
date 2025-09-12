@@ -44,7 +44,7 @@
 
 ```javascript
 const safwanGanz = {
-    role: "Senior Full-Stack Developer",
+    role: "Full-Stack Developer",
     currentlyLearning: ["Cloud Architecture", "DevOps", "System Design"],
     expertise: ["Web Development", "Technology Solutions", "Application Development", "Cloud Computing"],
     technologies: {
@@ -172,8 +172,6 @@ const safwanGanz = {
 
 - 🎯 **50+ Production Deployments** - Successfully delivered web applications to production
 - 🌟 **Open Source Contributor** - Active participation in community-driven projects  
-- 📖 **Technical Content Creator** - Authored tutorials and development guides
-- 👥 **Mentorship Program** - Guided junior developers in their career growth
 
 ---
 
@@ -263,4 +261,3 @@ const safwanGanz = {
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="Developer Quote"/>
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:1e3c72&height=120&section=footer)

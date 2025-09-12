@@ -1,6 +1,6 @@
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=slice&color=0:1e3c72,50:2a5298,100:1e3c72&height=300&section=header&text=SAFWAN%20GANZ&fontSize=90&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Devloper%20%7C%20Cloud%20Solutions%20Architect&descAlign=50&descAlignY=65&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=slice&color=0:4B9CD3,50:6BB6DC,100:4B9CD3&height=300&section=header&text=SAFWAN%20GANZ&fontSize=90&fontColor=1A2526&fontAlignY=35&desc=Full-Stack%20Devloper%20%7C%20Cloud%20Solutions%20Architect&descAlign=50&descAlignY=65&descSize=20)
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&width=900&lines=%F0%9F%9A%80+Full+Stack+Developer;%E2%9C%A8+Open+Source+Enthusiast;%F0%9F%93%9A+Always+Learning+New+Things;%E2%98%81%EF%B8%8F+Cloud+Architecture+Learner;%F0%9F%8E%A8+UI%2FUX+Designer" />
 

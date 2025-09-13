@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=3000&pause=1000&color=00F5FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=150&lines=SAFWAN+GANZ;%E2%9A%A1+FULL-STACK+ARCHITECT+%E2%9A%A1">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=3000&pause=1000&color=00F5FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=150&lines=SAFWAN+GANZ;%E2%9A%A1+FULL-STACK+DEVLOPER+%E2%9A%A1">
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=3000&pause=1000&color=6366F1&background=00000000&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=150&lines=SAFWAN+GANZ;%E2%9A%A1+FULL-STACK+ARCHITECT+%E2%9A%A1">
   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=3000&pause=1000&color=00F5FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=150&lines=SAFWAN+GANZ;%E2%9A%A1+FULL-STACK+ARCHITECT+%E2%9A%A1" />
 </picture>

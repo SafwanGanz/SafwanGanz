@@ -1,12 +1,4 @@
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&width=900&lines=SAFWAN+GANZ;⚡+FULL-STACK+DEVELOPER+⚡;Full+Stack+DevT+🚀;Building+the+Future+•+One+Line+at+a+Time" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,25:764ba2,50:f093fb,75:f5576c,100:4facfe&height=300&section=header&text=🚀%20CLOUD%20SOLUTIONS%20ARCHITECT&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Building%20the%20Future%20●%20One%20Line%20at%20a%20Time&descAlignY=60&descAlign=50"/>
-
-</div>
-
----
 
 ## 🎯 PROFILE OVERVIEW
 

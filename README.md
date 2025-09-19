@@ -1,7 +1,4 @@
 
-
-## 🎯 PROFILE OVERVIEW
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/💼%20Focus-Full%20Stack%20Development-2E86C1?style=for-the-badge&labelColor=1B4F72" />

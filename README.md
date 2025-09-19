@@ -14,10 +14,6 @@
 
 <div align="center">
 
-| 💼 **ROLE** | 📍 **LOCATION** | 💬 **LANGUAGES** | 🎯 **FOCUS** |
-|:---:|:---:|:---:|:---:|
-| Full-Stack Developer | Kanayannur, Kerala, India | English & Malayalam | Full Stack Development |
-
 <img src="https://img.shields.io/badge/💼%20Focus-Full%20Stack%20Development-2E86C1?style=for-the-badge&labelColor=1B4F72" />
 <img src="https://img.shields.io/badge/🌍%20Location-India-28B463?style=for-the-badge&labelColor=196F3D" />
 <img src="https://img.shields.io/badge/💬%20Languages-English%20%26%20Malayalam-8E44AD?style=for-the-badge&labelColor=6C3483" />

@@ -2,7 +2,7 @@
 
 # ⚡ THE README THAT DEFIES SANITY
 
-## yes, it exists. yes, your brain might melt. yes, this is ultra-pro brainrot.
+## yes, it exists. yes
 
 welcome to the README where dev energy, chaos, and insomnia collide.
 this isn’t just a portfolio. this is an experience. a saga. a caffeine-powered confession.

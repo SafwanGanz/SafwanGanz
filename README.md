@@ -205,11 +205,3 @@ if you ping me, mention the secret code: README went feral.
 
 ---
 
-this README is now **fully brainrot certified**.
-welcome to the chaos, survive if you can.
-
-```
-
-
-Do you want me to do that next?
-```

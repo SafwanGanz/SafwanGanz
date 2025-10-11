@@ -97,15 +97,9 @@ yo, strap in for the wild ride where code crashes parties, bugs throw raves, and
 
 ## 🔥 PROJECTS THAT BANG (or explode, who knows)
 
-<a href="https://compiler.safwanganz.tech">
-<img src="https://img.shields.io/badge/Python%20Compiler-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</a> *compile py, feel the power*  
-<a href="https://compiler-js.safwanganz.tech">
-<img src="https://img.shields.io/badge/JavaScript%20Compiler-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</a> *js compiler: because eval() is too mainstream*  
-<a href="https://markdown-editor.safwanganz.tech">
-<img src="https://img.shields.io/badge/Markdown%20Editor-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-</a> *md editor: write rot, render glory*
+<a href="https://compiler.safwanganz.tech"> <img src="https://img.shields.io/badge/Python%20Compiler-3776AB?style=for-the-badge&logo=python&logoColor=white" /> </a> *compile py, feel the power* 
+<a href="https://compiler-js.safwanganz.tech"> <img src="https://img.shields.io/badge/JavaScript%20Compiler-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> </a> *js compiler: because eval() is too mainstream*  
+<a href="https://markdown-editor.safwanganz.tech"> <img src="https://img.shields.io/badge/Markdown%20Editor-000000?style=for-the-badge&logo=markdown&logoColor=white" /> </a> *md editor: write rot, render glory*
 
 ---
 

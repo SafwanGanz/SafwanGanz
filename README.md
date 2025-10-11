@@ -1,7 +1,5 @@
 <div align="center">
 
-# 💥 BRAINROT README: THE ABSOLUTE DESCENT INTO MADNESS
-
 ## bro. it slaps. your neurons? fried. this aint a portfolio—it's a fever dream on steroids. pure dev delirium, zero sleep, 100% vibes.
 
 yo, strap in for the wild ride where code crashes parties, bugs throw raves, and coffee is the only god we pray to. this? it's not just docs. it's a manifesto. a meme. a middle finger to boring readmes.

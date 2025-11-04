@@ -20,7 +20,7 @@ yo, strap in for the wild ride where code crashes parties, bugs throw raves, and
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> *js? more like "just survive" every async hell*  
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> *python: elegant until it indents your soul*  
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> *ts: js but with therapy sessions*
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> *ts: js but with therapy sessions* 
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> *go: the quiet kid who built the entire backend while you were arguing about frameworks*
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> *php: the uncle nobody invited but shows up anyway*  
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /> *c: raw dogging memory like a boss*  

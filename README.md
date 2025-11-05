@@ -90,7 +90,7 @@ yo, strap in for the wild ride where code crashes parties, bugs throw raves, and
 
 ## 🏅 TROPHIES (for surviving the grind)
 
-<img src="https://github-profile-trophy.vercel.app/?username=SafwanGanz&theme=flat&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%" />
+![](https://github-profile-trophy.vercel.app/?username=SafwanGanz&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 - 50+ Prod Deploys – emerged from the flames unscathed (lies, scarred forever)
 - OSS Chaos Lord – dropping commits like hot takes

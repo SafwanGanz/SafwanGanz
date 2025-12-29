@@ -116,18 +116,74 @@ yo, strap in for the wild ride where code crashes parties, bugs throw raves, and
 
 ```javascript
 const safwanGanz = {
-    role: "Full-Stack Demon",
-    currentlyLearning: ["Cloud Shenanigans", "DevOps Nightmares", "System Design Disasters"],
-    expertise: ["Web Wizardry", "Tech Mayhem", "App Annihilation", "Cloud Carnage"],
-    technologies: {
-        frontend: { javascript: ["React (hooks hell)", "Vue.js (vibe city)", "Next.js (ssr sorcery)"], styling: ["Tailwind (class apocalypse)", "Bootstrap (lazy legend)", "Material UI (google's gift)"] },
-        backend: { javascript: ["Node.js (callback catastrophe)", "Express.js (route roulette)"], python: ["Django (orm overlord)", "Flask (minimalist menace)"], infrastructure: ["Bash (script sorcery)", "Systemd (daemon daddy)", "Nginx (reverse proxy rizz)"] },
-        databases: ["MongoDB (no-sql no mercy)", "MySQL (relational roast)", "PostgreSQL (sql supreme)"], 
-        cloud: ["AWS (bill shock therapy)", "Google Cloud (pixelated paradise)", "Docker (container clowning)", "Kubernetes (pod pandemonium)"]
+  role: "Full-Stack Demon",
+
+  currentlyLearning: [
+    "Cloud Shenanigans",
+    "DevOps Nightmares",
+    "System Design Disasters"
+  ],
+
+  expertise: [
+    "Web Wizardry",
+    "Tech Mayhem",
+    "App Annihilation",
+    "Cloud Carnage"
+  ],
+
+  technologies: {
+    frontend: {
+      javascript: [
+        "React (hooks hell)",
+        "Vue.js (vibe city)",
+        "Next.js (ssr sorcery)"
+      ],
+      styling: [
+        "Tailwind (class apocalypse)",
+        "Bootstrap (lazy legend)",
+        "Material UI (google's gift)"
+      ]
     },
-    architecture: ["PWAs (offline ops)", "SPAs (single-page slaughter)", "Microservices (distributed dumpster fire)"],
-    currentProject: "Forging cloud-native fever dreams"
+
+    backend: {
+      javascript: [
+        "Node.js (callback catastrophe)",
+        "Express.js (route roulette)"
+      ],
+      python: [
+        "Django (orm overlord)",
+        "Flask (minimalist menace)"
+      ],
+      infrastructure: [
+        "Bash (script sorcery)",
+        "Systemd (daemon daddy)",
+        "Nginx (reverse proxy rizz)"
+      ]
+    },
+
+    databases: [
+      "MongoDB (no-sql no mercy)",
+      "MySQL (relational roast)",
+      "PostgreSQL (sql supreme)"
+    ],
+
+    cloud: [
+      "AWS (bill shock therapy)",
+      "Google Cloud (pixelated paradise)",
+      "Docker (container clowning)",
+      "Kubernetes (pod pandemonium)"
+    ]
+  },
+
+  architecture: [
+    "PWAs (offline ops)",
+    "SPAs (single-page slaughter)",
+    "Microservices (distributed dumpster fire)"
+  ],
+
+  currentProject: "Forging cloud-native fever dreams"
 };
+
 ```
 
 ---

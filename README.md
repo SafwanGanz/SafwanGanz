@@ -3,97 +3,107 @@
 # 👋 Hey, I’m Safwan Ganz  
 ### Full-Stack Developer • Cloud & System Design
 
-I build scalable, production-ready web applications and occasionally break things to understand them better.  
-This GitHub is my workspace — projects, experiments, and ideas in progress.
+I build scalable, production-ready software and occasionally break things to understand them better.  
+This GitHub is my workspace — experiments, tools, and real projects.
 
-📍 India | 🌐 English & Malayalam  
+📍 India | 🌐 EN / ML  
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" />
 
 ---
 
 ## 🧠 About Me
-- 🚀 Full-stack developer focused on **clean architecture & performance**
-- ☁️ Comfortable with **cloud & DevOps workflows**
-- 🧪 Love building **developer tools and utilities**
-- 🐛 Debugging is basically my second personality
+- 🚀 Full-stack developer focused on **clean architecture**
+- ☁️ Comfortable with **cloud & DevOps**
+- 🧪 Builder of **developer tools**
+- 🐛 Debugging enthusiast (professionally)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-JavaScript · TypeScript · Python · Go · PHP · C · Kotlin · Java · Dart · Rust · Swift · Shell  
+### 🧩 Languages
+<img src="https://skillicons.dev/icons?i=js,ts,python,go,php,c,kotlin,java,dart,rust,swift,bash" />
 
-### Frontend
-React · Vue.js · Next.js  
-HTML · CSS · SCSS  
-Tailwind · Bootstrap · Material UI  
+---
 
-### Backend
-Node.js · Express  
-Django · Flask  
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,sass,react,vue,nextjs,tailwind,bootstrap" />
 
-### Databases
-PostgreSQL · MySQL / MariaDB · MongoDB  
+---
 
-### Cloud & DevOps
-AWS · Google Cloud  
-Docker · Kubernetes  
-Nginx · Linux  
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" />
 
-### Tools
-VS Code · Git · GitHub · NPM · Postman  
+---
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+
+---
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,nginx,linux" />
+
+---
+
+### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=vscode,git,github,npm,postman" />
 
 ---
 
 ## 🚀 Selected Projects
 
-### 🐍 Python Online Compiler
-A browser-based Python compiler with fast execution and a clean UI.  
+### 🐍 Python Online Compiler  
 🔗 https://compiler.safwanganz.tech  
 
-### ⚡ JavaScript Online Compiler
-Real-time JavaScript execution in a sandboxed environment.  
+### ⚡ JavaScript Online Compiler  
 🔗 https://compiler-js.safwanganz.tech  
 
-### 📝 Markdown Editor
-Live Markdown editor with preview and export support.  
+### 📝 Markdown Editor  
 🔗 https://markdown-editor.safwanganz.tech  
 
 ---
 
-## 📈 GitHub Activity (yes, I commit 👀)
+## 📈 GitHub Activity
 
 <img src="https://awesome-github-stats.azurewebsites.net/user-stats/SafwanGanz?cardType=github&theme=vue&preferLogin=true" />
 <img src="https://streak-stats.demolab.com?user=SafwanGanz&theme=vue-dark&hide_border=true" />
 
 ---
 
-## 🎯 What I Usually Work On
-- 🌐 Full-stack web applications  
+## 🎯 Focus Areas
+- 🌐 Full-stack applications  
 - ☁️ Cloud-native systems  
-- 🧩 Developer tools  
-- 🏗️ Scalable backend design  
+- 🧩 Developer tooling  
+- 🏗️ Scalable architectures  
 
 ---
 
 ## 📌 Currently Exploring
 - Advanced system design  
-- Cloud cost & performance optimization  
-- Distributed architectures  
+- Cloud performance & cost tuning  
+- Distributed systems  
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" />
 
 ---
 
-## 📬 Let’s Connect
+## 📬 Connect
 
-<a href="https://github.com/SafwanGanz">GitHub</a> ·
-<a href="https://www.linkedin.com/in/SafwanGanz">LinkedIn</a> ·
-<a href="mailto:safwanganz@gmail.com">Email</a> ·
-<a href="https://wa.me/917012074386">WhatsApp</a>
+<a href="https://github.com/SafwanGanz">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+<a href="https://www.linkedin.com/in/SafwanGanz">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:safwanganz@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://wa.me/917012074386">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" />
+</a>
 
-💬 Open to collaboration, interesting ideas, and good tech conversations.
+💬 Open to collaboration, ideas, and good tech conversations.
 
 </div>

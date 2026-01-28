@@ -1,10 +1,10 @@
 <div align="center">
 
 # 👋 Hey, I’m Safwan Ganz  
-### Full-Stack Developer • Cloud & System Design
+### Full-Stack Developer • Cloud • AI/ML • System Design
 
 I build scalable, production-ready software and occasionally break things to understand them better.  
-This GitHub is my workspace — experiments, tools, and real projects.
+This GitHub is my workspace — experiments, tools, and real-world projects.
 
 📍 India | 🌐 EN / ML  
 
@@ -15,6 +15,7 @@ This GitHub is my workspace — experiments, tools, and real projects.
 ## 🧠 About Me
 - 🚀 Full-stack developer focused on **clean architecture**
 - ☁️ Comfortable with **cloud & DevOps**
+- 🤖 Exploring **AI / ML systems**
 - 🧪 Builder of **developer tools**
 - 🐛 Debugging enthusiast (professionally)
 
@@ -39,6 +40,11 @@ This GitHub is my workspace — experiments, tools, and real projects.
 
 ### 🗄️ Databases
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+
+---
+
+### 🤖 AI / ML
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
 
 ---
 
@@ -75,6 +81,7 @@ This GitHub is my workspace — experiments, tools, and real projects.
 ## 🎯 Focus Areas
 - 🌐 Full-stack applications  
 - ☁️ Cloud-native systems  
+- 🤖 AI-assisted software  
 - 🧩 Developer tooling  
 - 🏗️ Scalable architectures  
 
@@ -83,6 +90,7 @@ This GitHub is my workspace — experiments, tools, and real projects.
 ## 📌 Currently Exploring
 - Advanced system design  
 - Cloud performance & cost tuning  
+- Applied machine learning  
 - Distributed systems  
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" />
@@ -104,6 +112,6 @@ This GitHub is my workspace — experiments, tools, and real projects.
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" />
 </a>
 
-💬 Open to collaboration, ideas, and good tech conversations.
+💬 Open to collaboration, research, and interesting tech problems.
 
 </div>

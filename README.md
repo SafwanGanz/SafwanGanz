@@ -58,7 +58,7 @@ This GitHub? my digital lab — experiments, tools, and stuff that actually runs
 
 ---
 
-## 🚀 stuff I built (and it didn’t explode)
+## 🚀 stuff I built (and it exploded)
 
 ### 🐍 Python Online Compiler  
 run python in the browser. fast. clean. no drama.  

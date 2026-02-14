@@ -111,7 +111,7 @@ write → preview → export → ship.
 <a href="mailto:safwanganz@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-<a href="https://wa.me/917012074386">
+<a href="https://wa.me/917306771605">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" />
 </a>
 

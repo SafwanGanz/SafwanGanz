@@ -75,7 +75,12 @@ write → preview → export → ship.
 ---
 
 ## 📈 proof of grind
-
+<a href="https://github.com/SafwanGanz">
+      <img 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=SafwanGanz&bg_color=0d1117&color=34a89d&line=70a5fd&point=bf91f3&area=true&hide_border=true" 
+        alt="GitHub Activity Graph"
+      />
+    </a>
 <img src="https://awesome-github-stats.azurewebsites.net/user-stats/SafwanGanz?cardType=github&theme=vue&preferLogin=true" />
 <img src="https://streak-stats.demolab.com?user=SafwanGanz&theme=vue-dark&hide_border=true" />
 
@@ -118,11 +123,3 @@ write → preview → export → ship.
 💬 down to collab, build cool stuff, or talk tech.
 
 </div>
-<div align="center">
-    <a href="https://github.com/SafwanGanz">
-      <img 
-        src="https://github-readme-activity-graph.vercel.app/graph?username=SafwanGanz&bg_color=0d1117&color=34a89d&line=70a5fd&point=bf91f3&area=true&hide_border=true" 
-        alt="GitHub Activity Graph"
-      />
-    </a>
-  </div>

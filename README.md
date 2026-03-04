@@ -84,6 +84,12 @@ write → preview → export → ship.
 <img src="https://awesome-github-stats.azurewebsites.net/user-stats/SafwanGanz?cardType=github&theme=vue&preferLogin=true" />
 <img src="https://streak-stats.demolab.com?user=SafwanGanz&theme=vue-dark&hide_border=true" />
 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SafwanGanz/SafwanGanz/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SafwanGanz/SafwanGanz/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/SafwanGanz/SafwanGanz/output/pacman-contribution-graph.svg" alt="Pacman contribution animation" />
+  </picture>
+
 ---
 
 ## 🎯 what I’m into

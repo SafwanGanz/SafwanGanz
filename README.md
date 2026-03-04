@@ -116,6 +116,8 @@ write → preview → export → ship.
 </a>
 
 💬 down to collab, build cool stuff, or talk tech.
+
+</div>
 <div align="center">
     <a href="https://github.com/SafwanGanz">
       <img 
@@ -124,4 +126,3 @@ write → preview → export → ship.
       />
     </a>
   </div>
-</div>

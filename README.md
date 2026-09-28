@@ -83,7 +83,7 @@ and improving systems through iteration.
 ### Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,npm,postman" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,npm,postman,arch" />
 </p>
 
 ---

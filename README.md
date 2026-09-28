@@ -59,7 +59,7 @@ and improving systems through iteration.
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,hono,hapi,django,flask" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,elysia" />
 </p>
 
 ### Databases

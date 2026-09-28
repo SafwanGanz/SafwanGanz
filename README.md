@@ -65,7 +65,7 @@ and improving systems through iteration.
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase,prisma" />
 </p>
 
 ### AI / Machine Learning

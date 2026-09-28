@@ -71,7 +71,7 @@ and improving systems through iteration.
 ### AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,colab" />
 </p>
 
 ### Cloud & Infrastructure

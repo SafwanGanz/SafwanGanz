@@ -192,7 +192,7 @@ If you are building something interesting, feel free to reach out.
 
 - **GitHub:** [SafwanGanz](https://github.com/SafwanGanz)
 - **LinkedIn:** [Safwan Ganz](https://www.linkedin.com/in/SafwanGanz)
-- **Website:** [tekvora.co.in](https://tekvora.co.in)
+- **Website:** [Devfolio](https://www.safwanganz.tech)
 - **Email:** safwanganz@gmail.com
 
 ---

@@ -10,7 +10,7 @@ Building practical software with a focus on maintainability, reliability, and re
 
 [![GitHub](https://img.shields.io/badge/GitHub-SafwanGanz-181717?style=flat&logo=github)](https://github.com/SafwanGanz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SafwanGanz-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/SafwanGanz)
-[![Website](https://img.shields.io/badge/Website-tekvora.co.in-0A7B83?style=flat&logo=google-chrome&logoColor=white)](https://tekvora.co.in)
+[![Website](https://img.shields.io/badge/Website-tekvora.co.in-0A7B83?style=flat&logo=google-chrome&logoColor=white)](https://www.draway.in)
 
 </div>
 
